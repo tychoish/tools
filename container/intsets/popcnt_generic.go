@@ -4,6 +4,7 @@
 
 // +build !amd64 appengine
 // +build !gccgo
+// +build !cgo
 
 package intsets
 
